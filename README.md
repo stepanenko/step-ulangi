@@ -12,6 +12,8 @@
     <img src="https://img.shields.io/badge/framework-react--native-brightgreen" /></a>
   <a href="https://github.com/minhloi/ulangi/releases" alt="Release version">
     <img src="https://img.shields.io/github/v/tag/minhloi/ulangi?label=version" /></a>
+  <a href="https://github.com/ulangi/ulangi/blob/master/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/ulangi/ulangi" /></a>
 </p>
 
 ---
