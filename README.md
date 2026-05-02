@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="./images/logo_120x120.svg"><br>
-  <a href="https://ulangi.com"><span>Ulangi</span></a><br>
+  <span>Ulangi</span></a>
 </h1>
 
 <h3 align="center">
-  <span>Open-source language learning tools</span><br>
+  <span>Language learning tool</span><br>
 </h3>
 
 <p align="center">
@@ -12,8 +12,6 @@
     <img src="https://img.shields.io/badge/framework-react--native-brightgreen" /></a>
   <a href="https://github.com/minhloi/ulangi/releases" alt="Release version">
     <img src="https://img.shields.io/github/v/tag/minhloi/ulangi?label=version" /></a>
-  <a href="https://github.com/ulangi/ulangi/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/ulangi/ulangi" /></a>
 </p>
 
 ---
@@ -21,46 +19,19 @@
 ## Introduction
 **Ulangi** makes it easy for you to manage and create flash cards to learn languages. It comes with built-in dictionaries, translators, built-in TTS, image search engine and more. You can use different learning methods to memorize them, such as spaced repetition, writing, quiz... **Everything about Ulangi (mobile, server, add-on, etc) is hosted in this repository.** 
 
-**Ulangi** is completely free thanks to **[Midterm App](https://midterm.app)**. We are going to use some technology from it to make the desktop version.
-
----
-
-## Main apps
-
-### Ulangi (Full version)
-| Platform | Store |
-| --- | --- |
-| iOS | [Download on App Store](https://itunes.apple.com/us/app/id1435524341?mt=8) |
-| Android | [Download on Play Store](https://play.google.com/store/apps/details?id=com.ulangi) |
-| Mac | *Not yet available* |
-| Windows | *Not yet available* |
-| Linux | *Not yet available* |
-
 ---
 
 ## Development principles
+
 - Write type-safe code
 - Use design patterns
 - Make it easy to build/customize tools
 
 ---
 
-## Documentation
-
-All docs are hosted here: [https://ulangi.github.io/ulangi](https://ulangi.github.io/ulangi)
-
-We're adding more docs. Stay tuned! 
-
----
-
 ## Change log
 
 Please view [CHANGELOG.md](./CHANGELOG.md) file.
-
----
-
-## License
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version. [See full detail here.](/LICENSE)
 
 ---
 
