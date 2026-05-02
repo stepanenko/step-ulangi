@@ -31,12 +31,6 @@
 
 ---
 
-## Change log
-
-Please view [CHANGELOG.md](./CHANGELOG.md) file.
-
----
-
 ## Credits
 - social-icons by [Just UI](https://www.iconfinder.com/iconsets/social-icons-33)
 - lesson-icons from [Material Design Icons by community](https://github.com/templarian/MaterialDesign/) (SIL Open Font License 1.1)
